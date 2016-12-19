@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudyJamCalculadora</string>
+    <string name="app_main.tv.coma">,</string>
+    <string name="app_main.tv.cero">0</string>
+    <string name="app_main.tv.igual">=</string>
+    <string name="app_main.tv.uno">1</string>
+    <string name="app_main.tv.dos">2</string>
+    <string name="app_main.tv.tres">3</string>
+    <string name="app_main.tv.cuatro">4</string>
+    <string name="app_main.tv.cinco">5</string>
+    <string name="app_main.tv.seis">6</string>
+    <string name="app_main.tv.siete">7</string>
+    <string name="app_main.tv.ocho">8</string>
+    <string name="app_main.tv.nueve">9</string>
+    <string name="app_main.tv.ce">ce</string>
+    <string name="app_main.tv.multiplicar">x</string>
+    <string name="app_main.tv.division">/</string>
+    <string name="app_main.tv.sumar">+</string>
+    <string name="app_main.tv.restar">-</string>
+    <string name="app_main.tv.resultado">0</string>
+
+
+</resources>
